@@ -7,6 +7,7 @@
 
 [Turing test Wikipedia](https://en.wikipedia.org/wiki/Turing_test)
 
+
 ## Peter Norvig and Stuart Russel classification
 
 1. Simple reflex agents
